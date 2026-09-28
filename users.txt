@@ -1,0 +1,2 @@
+# User records are created automatically by the program.
+# Format: username password_hash
